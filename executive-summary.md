@@ -8,4 +8,3 @@ Based on the incident details provided, generate a concise executive summary tha
 
 Tone: Professional, leadership-friendly, non-technical.
 Length: 5–6 sentences.
-Placeholder - content to be added.
